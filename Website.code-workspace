@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Documents/vs code"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Website about me"
+	}
+}
